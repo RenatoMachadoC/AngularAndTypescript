@@ -1,0 +1,23 @@
+# Clientes
+ID_Cliente,Nome,Email,Data_Cadastro
+1,João Silva,joao@email.com,2025-01-10
+2,Maria Souza,maria@email.com,2025-03-15
+3,Pedro Costa,pedro@email.com,2025-05-20
+
+# Produtos
+ID_Produto,Nome_Produto,Categoria,Preço,Estoque
+101,Smartphone X,Eletrônicos,2500.00,30
+102,Notebook Y,Eletrônicos,4500.00,20
+103,Fone Bluetooth Z,Acessórios,300.00,100
+
+# Pedidos
+ID_Pedido,ID_Cliente,Data_Pedido,Status,Total
+1001,1,2025-05-01,Enviado,2800.00
+1002,2,2025-06-02,Processando,4500.00
+1003,3,2025-06-05,Entregue,300.00
+
+# Itens_Pedido
+ID_Item,ID_Pedido,ID_Produto,Quantidade,Preço_Unitário
+5001,1001,101,1,2500.00
+5002,1001,103,1,300.00
+5003,1002,102,1,4500.00

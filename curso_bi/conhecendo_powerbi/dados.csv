@@ -1,0 +1,11 @@
+PedidoID,ClienteID,NomeCliente,Email,DataPedido,Produto,Quantidade,PrecoUnitario,Total,Cidade,Status
+101,1,Ana Souza,ana.souza@email.com,2025-05-20,Laptop,1,4500,4500,São Paulo,Entregue
+102,2,Carlos Lima,carlos.lima@email.com,2025-05-22,Smartphone,2,2500,5000,Rio de Janeiro,Pendente
+103,3,Mariana Oliveira,mariana.oliveira@email.com,2025-05-23,Fone de Ouvido,3,350,1050,Belo Horizonte,Enviado
+104,4,Pedro Santos,pedro.santos@email.com,2025-05-25,Monitor,1,1200,1200,Curitiba,Entregue
+105,5,Fernanda Alves,fernanda.alves@email.com,2025-05-26,Teclado Mecânico,2,500,1000,Porto Alegre,Pendente
+106,6,João Ferreira,joao.ferreira@email.com,2025-05-27,Mouse Gamer,1,350,350,Recife,Entregue
+107,7,Luiza Costa,luiza.costa@email.com,2025-05-28,Cadeira Ergonômica,1,1600,1600,Brasília,Enviado
+108,8,Gustavo Mendes,gustavo.mendes@email.com,2025-05-29,Webcam HD,2,700,1400,Salvador,Pendente
+109,9,Beatriz Ramos,beatriz.ramos@email.com,2025-05-30,SSD 1TB,1,800,800,Fortaleza,Entregue
+110,10,Rafael Castro,rafael.castro@email.com,2025-05-31,Placa de Vídeo,1,3500,3500,Manaus,Enviado
