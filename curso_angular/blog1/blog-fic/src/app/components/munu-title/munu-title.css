@@ -1,0 +1,23 @@
+.container__menu-title{
+
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+.container__menu-title > h1{
+
+ font-size: 150px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ margin: auto;
+ display: flex;
+ justify-content: center;
+
+}
+
+.container__menu-title > hr{
+
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
