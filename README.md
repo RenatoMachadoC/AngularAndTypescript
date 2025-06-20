@@ -1,1 +1,0 @@
-Esse é meu primeiro read-me, Deus abençõe, e que haja muitos pela frente!!!!!
